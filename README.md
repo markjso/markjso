@@ -3,7 +3,7 @@ Hi, I'm Jo, dabbler in code and 42 graduate.
 \
 View my 42 projects [here](https://github.com/markjso?tab=repositories)
 
-### About Me
+### :woman_technologist: Reach Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jomarks1/)
 
 ### :hammer_and_wrench: Languages and Tools :
