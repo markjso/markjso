@@ -1,5 +1,7 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome
+### Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 Hi, I'm Jo, dabbler in code and 42 graduate.
+\
+View my 42 projects [here](https://github.com/markjso?tab=repositories)
 
 ### About Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jomarks1/)
